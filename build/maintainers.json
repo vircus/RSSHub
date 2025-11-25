@@ -3170,6 +3170,9 @@
     "HankChow",
     "Konano"
   ],
+  "/gesiba*": [
+    "sk22"
+  ],
   "/getdr/": [
     "nczitzk"
   ],
@@ -6188,6 +6191,9 @@
   "/oeeee/app/reporter/:id": [
     "TimWu007"
   ],
+  "/oesw*": [
+    "sk22"
+  ],
   "/oilchem/:type?/:category?/:subCategory?": [
     "nczitzk"
   ],
@@ -8696,6 +8702,9 @@
   "/washingtonpost/app/:category{.+}?": [
     "quiniapiezoelectricity"
   ],
+  "/wbv-gpa/:category?/:state?": [
+    "sk22"
+  ],
   "/wchscu/recruit": [
     "ViggoC"
   ],
@@ -8838,6 +8847,9 @@
   ],
   "/whu/gs/:type?": [
     "Delreyaa"
+  ],
+  "/wiensued*": [
+    "sk22"
   ],
   "/wikinews/latest": [
     "KotoriK"
