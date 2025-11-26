@@ -1372,9 +1372,6 @@
   "/ccac/news/:type/:lang?": [
     "linbuxiao"
   ],
-  "/ccagm/:category{.+}?": [
-    "nczitzk"
-  ],
   "/cccfna/:category/:type?": [
     "hualiong"
   ],
@@ -4496,7 +4493,7 @@
   "/ithome/tw/feeds/:category": [
     "miles170"
   ],
-  "/iwara/users/:username/:type?": [
+  "/iwara/users/:username?/:type?": [
     "Fatpandac"
   ],
   "/iwara/subscriptions": [
