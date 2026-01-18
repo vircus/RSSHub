@@ -760,6 +760,7 @@ export type RoutePath =
   | `/digitalpolicyalert/activity-tracker/:filters?`
   | `/dingshao/share/:shortId`
   | `/discord/channel/:channelId`
+  | `/discord/quests`
   | `/discord/search/:guildId/:routeParams`
   | `/discourse/:configId/notifications/:fulltext?`
   | `/discourse/:configId/official/:path{.+}`
@@ -1865,6 +1866,7 @@ export type RoutePath =
   | `/mpaypass/main/:type?`
   | `/mpaypass/news`
   | `/mrdx/today`
+  | `/mrinalxdev/blog`
   | `/mrm/:category?`
   | `/msn/:market/:name/:id`
   | `/musify/:language?`
